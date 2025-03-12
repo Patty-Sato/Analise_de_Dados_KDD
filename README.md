@@ -27,6 +27,8 @@ O repositório contém os seguintes arquivos:
 
 📄 Análise KDD.pdf → Arquivo contendo a análise completa baseada em KDD.
 
+📊 Perfil_Clientes_Top_ECommerce.xlsx → Dataset com os dados utilizados na análise.
+
 🗄️ kdd.ipynb → Arquivo Jupyter Notebook que contém os códigos em linguagem Python.
 
 📖 README.md → Este arquivo, com a explicação do projeto.
@@ -35,4 +37,9 @@ O repositório contém os seguintes arquivos:
 💻 **Onde Executar**
 <br><br>
 Este projeto pode ser executado no Google Colab ou Jupyter Notebook Viewer para facilitar a execução sem necessidade de instalação local.
+
+<br><br>
+⚙️ **Requisitos**
+<br><br>
+Antes de executar o projeto, certifique-se de ter efetuado o upload do arquivo em Excel para o ambiente virtual escolhido.
 
