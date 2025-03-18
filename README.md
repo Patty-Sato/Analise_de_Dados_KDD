@@ -25,7 +25,7 @@ O KDD é um processo estruturado para a descoberta de padrões e informações �
 <br><br>
 O repositório contém os seguintes arquivos:
 
-📄 Análise KDD.pdf → Arquivo contendo a análise completa baseada em KDD.
+📄 Análise KDD.pdf → Arquivo contendo a análise completa baseada em KDD e as recomendações ao depto. comercial.
 
 📊 Perfil_Clientes_Top_ECommerce.xlsx → Dataset com os dados utilizados na análise.
 
@@ -36,7 +36,7 @@ O repositório contém os seguintes arquivos:
 <br><br>
 💻 **Onde Executar**
 <br><br>
-Este projeto pode ser executado no Google Colab ou Jupyter Notebook Viewer para facilitar a execução sem necessidade de instalação local.
+O arquivo kdd.ipynb pode ser executado no Google Colab ou Jupyter Notebook Viewer para facilitar a execução sem necessidade de instalação local.
 
 <br><br>
 ⚙️ **Requisitos**
