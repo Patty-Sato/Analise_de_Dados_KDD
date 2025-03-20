@@ -21,6 +21,11 @@ O KDD é um processo estruturado para a descoberta de padrões e informações �
 🎯 Recomendações para o departamento comercial.
 
 <br><br>
+## 📄 Acesse a Análise Completa
+
+🔗 [Visualizar no GitHub](https://github.com/Patty-Sato/Analise_de_Dados_KDD/blob/main/Análise%20KDD.pdf)
+
+<br><br>
 📜 **Estrutura do Projeto**
 <br><br>
 O repositório contém os seguintes arquivos:
